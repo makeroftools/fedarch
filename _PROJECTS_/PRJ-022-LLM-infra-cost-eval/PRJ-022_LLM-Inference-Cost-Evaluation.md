@@ -13,7 +13,7 @@
 | **Season** | #WeOwnSeason003 🚀 |
 | **Status** | ✅ COMPLETE — 👀 IN REVIEW |
 | **#LLMmodel** | Qwen3.5-397B-A17B |
-| **Source of Truth** | [GitHub](https://github.com/CCCbotNet/fedarch/blob/main/_PROJECTS_/PRJ-022-LLM-infra/cost-eval/PRJ-022_LLM-Inference-Cost-Evaluation.md) |
+| **Source of Truth** | [GitHub](https://github.com/CCCbotNet/fedarch/blob/main/_PROJECTS_/PRJ-022-LLM-infra-cost-eval/PRJ-022_LLM-Inference-Cost-Evaluation.md) |
 | **Related Research** | P-010_Doc1_LLM-Infrastructure-Evaluation.md + P-010_Doc2_Gateway-Inference-Implementation-Guide.md (uploaded alongside this doc) |
 
 ---
