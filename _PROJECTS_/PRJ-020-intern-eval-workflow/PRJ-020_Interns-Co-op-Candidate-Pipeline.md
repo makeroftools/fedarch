@@ -13,7 +13,7 @@
 | **Season** | #WeOwnSeason003 🚀 |
 | **Status** | 🚀 GH LIVE |
 | **#LLMmodel** | Qwen3.5-397B-A17B |
-| **Source of Truth** | [GitHub](https://github.com/CCCbotNet/fedarch/blob/main/_PROJECTS_/PRJ-020_Interns-Co-op-Candidate-Pipeline.md) |
+| **Source of Truth** | [GitHub](https://github.com/CCCbotNet/fedarch/blob/main/_PROJECTS_/PRJ-020-intern-eval-workflow/PRJ-020_Interns-Co-op-Candidate-Pipeline.md) |
 | **R-199** | Candidate data = RAG ONLY, NEVER GitHub |
 
 ---
