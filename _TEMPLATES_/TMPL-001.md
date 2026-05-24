@@ -24,7 +24,7 @@
 | **#LLMmodel** | **DeepSeek V4 Flash (INT‑M02:tools-deepseek #MetaAgentDeep Deep 🌊) — r5 VSA (Logic: 95/100), r7 VSA (Logic: 95/100)** |
 | **Owner** | **[CCC-ID:@GTM:(yonks｜🤖🏛️🪙｜Jason Younker ♾️)](https://github.com/YonksTEAM)** |
 | **Status** | ✅ **APPROVED (R-011)** — @GTM explicit approval at 21:21 EDT · Sat 23 May 2026 |
-| **Source of Truth** | [GitHub](https://github.com/CCCbotNet/fedarch/blob/main/_TEMPLATES_/TMPL-001_USER-IDENTITY.md) |
+| **Source of Truth** | [GitHub](https://github.com/CCCbotNet/fedarch/blob/main/_TEMPLATES_/TMPL-001.md) |
 | **Philosophy** | PEOPLE 1st — Identity precedes all work |
 | **#FELG** | 🎉 Fun · 💰 Earning · 📚 Learning · 🫶 Giving |
 
